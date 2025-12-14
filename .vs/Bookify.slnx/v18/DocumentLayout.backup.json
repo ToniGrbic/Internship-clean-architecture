@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{1647302F-7902-0173-DD24-C82246DB272C}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\entities\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.infrastructure\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,44 +43,12 @@
       "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\database\\configurations\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.api\\appsettings.development.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|solutionrelative:bookify.api\\appsettings.development.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.api\\bookify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|solutionrelative:bookify.api\\bookify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|solutionrelative:bookify.api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|solutionrelative:bookify.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.infrastructure\\bookify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\bookify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|solutionrelative:bookify.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A488E8-349A-6CDE-DD98-836343C9F53A}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{19BC9D29-C934-2E9D-EE68-B759E8FB0CDA}|Bookify.Api\\Bookify.Api.csproj|solutionrelative:bookify.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1647302F-7902-0173-DD24-C82246DB272C}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\tonig.toni\\onedrive\\desktop\\bookify\\bookify\\bookify.domain\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,6 +62,30 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Bookify\\Bookify.Applicationn\\Users\\User\\GetAllUsersRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\appsettings.Development.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bookify.Api\\appsettings.Development.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bookify.Api\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bookify.Api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bookify.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bookify.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Bookify.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bookify.Api\\Bookify.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,7 +95,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -147,56 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Books\\Book.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Entities\\Books\\Book.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Books\\Book.cs",
-              "RelativeToolTip": "Bookify.Domain\\Entities\\Books\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T13:37:38.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20251213125004_second_migration.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
-              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
-              "RelativeToolTip": "Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T12:50:10.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwGgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T12:45:35.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DesignTimeDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
-              "RelativeToolTip": "Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T12:36:56.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Bookify.Infrastructure\\Database\\ApplicationDbContext.cs",
@@ -208,7 +159,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Entities\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Users\\User.cs",
+              "RelativeToolTip": "Bookify.Domain\\Entities\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:23:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Bookify.Infrastructure\\Database\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:36:56.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Bookify.Api\\appsettings.Development.json",
@@ -220,20 +196,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Users\\User.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Entities\\Users\\User.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Users\\User.cs",
-              "RelativeToolTip": "Bookify.Domain\\Entities\\Users\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Repository.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repository.cs",
+              "RelativeToolTip": "Bookify.Infrastructure\\Repository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T16:23:07.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T16:25:35.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Bookify.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:38:43.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Books\\Book.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Entities\\Books\\Book.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\Entities\\Books\\Book.cs",
+              "RelativeToolTip": "Bookify.Domain\\Entities\\Books\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T13:37:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Bookify.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Bookify.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:44:28.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Bookify.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:45:35.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251213125004_second_migration.cs",
+              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
+              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
+              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
+              "RelativeToolTip": "Bookify.Infrastructure\\Migrations\\20251213125004_second_migration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:50:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Schemas.cs",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Database\\Schemas.cs",
               "RelativeDocumentMoniker": "Bookify.Infrastructure\\Database\\Schemas.cs",
@@ -245,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Bookify.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
@@ -257,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Bookify.Infrastructure\\UnitOfWork.cs",
@@ -269,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Bookify.Api\\appsettings.json",
@@ -281,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "Bookify.Api.csproj",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Bookify.Api.csproj",
               "RelativeDocumentMoniker": "Bookify.Api\\Bookify.Api.csproj",
@@ -293,19 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repository.cs",
-              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Repository.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repository.cs",
-              "RelativeToolTip": "Bookify.Infrastructure\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T16:25:35.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Program.cs",
               "RelativeDocumentMoniker": "Bookify.Api\\Program.cs",
@@ -317,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Bookify.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Bookify.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Bookify.Infrastructure\\Bookify.Infrastructure.csproj",
@@ -329,31 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Bookify.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Bookify.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T16:44:28.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Bookify.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Bookify.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T16:38:43.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Bookify.Api\\appsettings.Development.json",
@@ -364,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
               "Title": "GetUserRequestHandler.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bookify\\Bookify.Applicationn\\Users\\User\\GetUserRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\Bookify\\Bookify.Applicationn\\Users\\User\\GetUserRequestHandler.cs",
@@ -375,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
               "Title": "UsersDTO.cs",
               "DocumentMoniker": "C:\\Users\\tonig.TONI\\OneDrive\\Desktop\\Bookify\\Bookify\\Bookify.Domain\\DTOs\\UsersDTO.cs",
               "RelativeDocumentMoniker": "Bookify.Domain\\DTOs\\UsersDTO.cs",
@@ -387,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 14,
               "Title": "CreateUserRequestHandler.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bookify\\Bookify.Applicationn\\Users\\User\\CreateUserRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\Bookify\\Bookify.Applicationn\\Users\\User\\CreateUserRequestHandler.cs",
@@ -398,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "GetAllUsersRequestHandler.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Bookify\\Bookify.Applicationn\\Users\\User\\GetAllUsersRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\Bookify\\Bookify.Applicationn\\Users\\User\\GetAllUsersRequestHandler.cs",

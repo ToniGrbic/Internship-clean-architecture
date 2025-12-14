@@ -1,5 +1,7 @@
 ﻿using Bookify.Infrastructure.Database;
 using Bookify.Domain.Persistence.Common;
+using Bookify.Domain.Persistence.Users;
+using Bookify.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -14,6 +16,7 @@ namespace Bookify.Infrastructure
             IConfiguration configuration)
         {
             AddDatabase(services, configuration);
+            AddRepositories(services);
 
             return services;
         }
@@ -29,7 +32,7 @@ namespace Bookify.Infrastructure
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseNpgsql(connectionString));
 
-            services.AddHttpClient(); // registrira HttpClient
+            services.AddHttpClient();
 
             services.AddSingleton<IDapperManager>(sp =>
             {
@@ -37,7 +40,12 @@ namespace Bookify.Infrastructure
                 string cs = config.GetConnectionString("Database")!;
                 return new DapperManager(cs);
             });
+        }
 
+        private static void AddRepositories(IServiceCollection services)
+        {
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IUserUnitOfWork, UserUnitOfWork>();
         }
     }
 }

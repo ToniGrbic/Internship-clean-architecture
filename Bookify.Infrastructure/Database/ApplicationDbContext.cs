@@ -20,6 +20,8 @@ namespace Bookify.Infrastructure.Database
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
 
             modelBuilder.HasDefaultSchema(Schemas.Default);
+
+            Seed.Seed.SeedData(modelBuilder);
         }
     }
 }

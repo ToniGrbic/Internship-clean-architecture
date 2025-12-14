@@ -10,11 +10,11 @@ namespace Bookify.Infrastructure.Database
         {
             
             var configuration = new ConfigurationBuilder()
-                .SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "..", "Bookify.Api"))
-                .AddJsonFile("appsettings.Development.json", optional: false, reloadOnChange: true)
+                .SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "..", "Bookify.Console"))
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .Build();
 
-            var connectionString = configuration.GetConnectionString("UsersDatabase");
+            var connectionString = configuration.GetConnectionString("Database");
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
 
             optionsBuilder.UseNpgsql(connectionString);

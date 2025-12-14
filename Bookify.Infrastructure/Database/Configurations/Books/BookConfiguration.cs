@@ -34,7 +34,6 @@ namespace Bookify.Infrastructure.Database.Configurations.Books
                 .HasColumnName("user_id")
                 .IsRequired();
 
-            // Configure the relationship
             builder.HasOne(b => b.User)
                 .WithMany(u => u.Books)
                 .HasForeignKey(b => b.UserId)

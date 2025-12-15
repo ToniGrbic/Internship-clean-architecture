@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Bookify.Domain.Persistence.Common
+﻿namespace Bookify.Domain.Persistence.Common
 {
     public interface IUnitOfWork
     {

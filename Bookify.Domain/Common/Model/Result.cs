@@ -1,7 +1,4 @@
 ﻿using Bookify.Domain.Common.Validation;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Bookify.Domain.Common.Model
 {

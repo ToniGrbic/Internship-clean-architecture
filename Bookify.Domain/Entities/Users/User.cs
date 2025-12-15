@@ -1,5 +1,4 @@
-﻿using Bookify.Domain.Abstractions;
-using Bookify.Domain.Common.Model;
+﻿using Bookify.Domain.Common.Model;
 using Bookify.Domain.Common.Validation;
 using Bookify.Domain.Common.Validation.ValidationItems;
 using Bookify.Domain.Persistence.Users;

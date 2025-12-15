@@ -1,5 +1,4 @@
 ﻿using Bookify.Infrastructure.Database;
-using Bookify.Domain.Persistence.Common;
 using Bookify.Domain.Persistence.Users;
 using Bookify.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;

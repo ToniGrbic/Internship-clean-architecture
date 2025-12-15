@@ -1,15 +1,12 @@
 ﻿using Bookify.Domain.Common.Validation;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Bookify.Application.Common.Model
 {
     public class Result<TValue> where TValue : class
     {
-        private List<ValidationResultItem> _infos = new List<ValidationResultItem>();
-        private List<ValidationResultItem> _warnings = new List<ValidationResultItem>();
-        private List<ValidationResultItem> _errors = new List<ValidationResultItem>();
+        private readonly List<ValidationResultItem> _infos = new();
+        private readonly List<ValidationResultItem> _warnings = new();
+        private readonly List<ValidationResultItem> _errors = new();
 
         public TValue? Value { get; set; } = null;
         public Guid RequestId { get; set; }

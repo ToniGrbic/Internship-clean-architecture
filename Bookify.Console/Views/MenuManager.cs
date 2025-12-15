@@ -1,16 +1,16 @@
 using Bookify.Application.Users.User;
 using Bookify.Console.Helpers;
-using Bookify.Console.Services;
+using Bookify.Console.Actions;
 
 namespace Bookify.Console.Views
 {
     public class MenuManager
     {
-        private readonly UserService _userService;
+        private readonly UserActions _userActions;
 
-        public MenuManager(UserService userService)
+        public MenuManager(UserActions userActions)
         {
-            _userService = userService;
+            _userActions = userActions;
         }
 
         public async Task RunAsync()
@@ -40,7 +40,7 @@ namespace Bookify.Console.Views
             System.Console.Clear();
             Writer.WriteMessage("\n=== AVAILABLE USERS ===\n");
 
-            var users = await _userService.GetAllUsersAsync();
+            var users = await _userActions.GetAllUsersAsync();
             var userList = users.ToList();
 
             if (!userList.Any())
@@ -56,7 +56,7 @@ namespace Bookify.Console.Views
 
             if (userId.HasValue)
             {
-                var selectedUser = await _userService.GetUserByIdAsync(userId.Value);
+                var selectedUser = await _userActions.GetUserByIdAsync(userId.Value);
                 if (selectedUser != null)
                 {
                     await ShowUserMenuAsync(selectedUser);
@@ -103,7 +103,7 @@ namespace Bookify.Console.Views
             System.Console.Clear();
             Writer.WriteMessage($"\n=== BOOKS FOR {userName.ToUpper()} ===\n");
 
-            var books = await _userService.GetUserBooksAsync(userId);
+            var books = await _userActions.GetUserBooksAsync(userId);
             
             Writer.WriteBooks(books, userName);
             Writer.WaitForKey();

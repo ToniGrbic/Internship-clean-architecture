@@ -1,13 +1,13 @@
 using Bookify.Application.Users.User;
 using Bookify.Domain.Persistence.Users;
 
-namespace Bookify.Console.Services
+namespace Bookify.Console.Actions
 {
-    public class UserService
+    public class UserActions
     {
         private readonly IUserUnitOfWork _unitOfWork;
 
-        public UserService(IUserUnitOfWork unitOfWork)
+        public UserActions(IUserUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }

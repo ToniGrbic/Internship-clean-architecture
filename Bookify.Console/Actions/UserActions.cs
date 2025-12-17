@@ -1,22 +1,32 @@
+using Bookify.Application.Common.Model;
 using Bookify.Application.Users.User;
-using Bookify.Domain.Persistence.Users;
 
 namespace Bookify.Console.Actions
 {
     public class UserActions
     {
-        private readonly IUserUnitOfWork _unitOfWork;
+        private readonly GetAllUsersRequestHandler _getAllUsersHandler;
+        private readonly GetUserRequestHandler _getUserHandler;
+        private readonly GetUserBooksRequestHandler _getUserBooksHandler;
 
-        public UserActions(IUserUnitOfWork unitOfWork)
+        public UserActions(
+            GetAllUsersRequestHandler getAllUsersHandler,
+            GetUserRequestHandler getUserHandler,
+            GetUserBooksRequestHandler getUserBooksHandler)
         {
-            _unitOfWork = unitOfWork;
+            _getAllUsersHandler = getAllUsersHandler;
+            _getUserHandler = getUserHandler;
+            _getUserBooksHandler = getUserBooksHandler;
         }
 
         public async Task<IEnumerable<UserResponse>> GetAllUsersAsync()
         {
-            var result = await _unitOfWork.Repository.Get();
+            var result = await _getAllUsersHandler.ProcessAuthorizedRequestAsync(new GetAllRequest());
 
-            return result.Values.Select(u => new UserResponse
+            if (result.Value == null)
+                return [];
+
+            return result.Value.Values.Select(u => new UserResponse
             {
                 Id = u.Id,
                 Name = u.Name
@@ -25,23 +35,26 @@ namespace Bookify.Console.Actions
 
         public async Task<UserResponse?> GetUserByIdAsync(int userId)
         {
-            var user = await _unitOfWork.Repository.GetById(userId);
+            var result = await _getUserHandler.ProcessAuthorizedRequestAsync(new GetByIdRequest(userId));
 
-            if (user == null)
+            if (result.Value == null)
                 return null;
 
             return new UserResponse
             {
-                Id = user.Id,
-                Name = user.Name
+                Id = result.Value.Id,
+                Name = result.Value.Name
             };
         }
 
         public async Task<IEnumerable<BookResponse>> GetUserBooksAsync(int userId)
         {
-            var books = await _unitOfWork.Repository.GetUserBooks(userId);
+            var result = await _getUserBooksHandler.ProcessAuthorizedRequestAsync(new GetUserBooksRequest(userId));
 
-            return books.Select(b => new BookResponse
+            if (result.Value == null)
+                return [];
+
+            return result.Value.Values.Select(b => new BookResponse
             {
                 Id = b.Id,
                 Title = b.Title,

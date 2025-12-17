@@ -1,5 +1,6 @@
 ﻿using Bookify.Console.Views;
 using Bookify.Console.Actions;
+using Bookify.Application.Users.User;
 using Bookify.Infrastructure;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -12,6 +13,11 @@ builder.Configuration
     .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 
 builder.Services.AddInfrastructure(builder.Configuration);
+
+builder.Services.AddScoped<GetAllUsersRequestHandler>();
+builder.Services.AddScoped<GetUserRequestHandler>();
+builder.Services.AddScoped<GetUserBooksRequestHandler>();
+
 builder.Services.AddScoped<UserActions>();
 builder.Services.AddScoped<MenuManager>();
 
